@@ -1,5 +1,5 @@
 <template>
   <div>
-    Production
+    Development
   </div>
 </template>
